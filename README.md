@@ -29,5 +29,5 @@ You will have to divide the data into three partitions: training, validation, an
 
 For each classifier, try to find the optimal hyperparameters.
 
-You also need to compare the performance of all classifiers using different metrics such as the precision, recall, F1-score, and ROC/AUC curves
+You also need to compare the performance of all classifiers using different metrics such as the precision, recall, F1-score, and ROC/AUC curves.
 
